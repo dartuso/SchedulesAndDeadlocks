@@ -1,0 +1,8 @@
+Deadlocked processes: 100 200 300 400 500 600
+Deadlocked processes: 1 2 3 4 5 6 7 8 9 10
+Deadlocked processes: 1 2 3 4 5 6 7 8 9 10
+Deadlocked processes: none
+Deadlocked processes: none
+Deadlocked processes: 123 234 345 456
+Deadlocked processes: 1 10 100 1000 10000
+Deadlocked processes: none

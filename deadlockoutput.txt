@@ -1,0 +1,4 @@
+Deadlocked processes: none
+Deadlocked processes: 5 7
+Deadlocked processes: 3 7
+Deadlocked processes: 3 432
